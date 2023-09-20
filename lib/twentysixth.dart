@@ -1373,7 +1373,7 @@ class _twentysixthState extends State<twentysixth> {
                         )
                       ],
                     ),
-                  ),hjvgfvgufvjhgbjkhjk
+                  ),
                   SizedBox(
                     height: 28,
                   ),
